@@ -1,2 +1,2 @@
 # wixProductRating
-Add rating product on your Wix E-commerce website
+Add rating product to a Wix Stores Site.
